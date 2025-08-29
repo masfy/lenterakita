@@ -56,7 +56,7 @@ class DataStore {
         id: 1,
         nama_kelas: "VIII A",
         jumlah_siswa: 32,
-        wali_guru: "Ibu Sari Dewi",
+        wali_guru: "Ibu Fithratun Nisa",
         created_at: "2024-01-15",
       },
       {
