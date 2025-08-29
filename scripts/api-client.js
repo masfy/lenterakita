@@ -1,7 +1,7 @@
 // API Client untuk Frontend Lentera
 // Ganti dengan URL Web App Anda setelah deploy
 
-const API_BASE_URL = "https://script.google.com/macros/s/AKfycbxnm2gF-twaH20jpzzynVVdPVRQ2JmJ0-SYOmGhtpdB-W7A2f_Ld2ysF241PfA4ciuB/exec"
+const API_BASE_URL = "https://script.google.com/macros/s/AKfycbzzrX7I-V1nA9k__0sxDG1_JYayTREOqMr4n6zluquEZo0aAeWtYOw8nv5QMbOhTtdg/exec"
 
 class LenteraAPI {
   constructor() {
