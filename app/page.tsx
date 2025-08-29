@@ -49,7 +49,7 @@ export default function LoginPage() {
           JSON.stringify({
             id: 1,
             role: "guru",
-            nama: "Ibu Sari Dewi",
+            nama: "Ibu Fithratun Nisa",
             username: "guru1",
           }),
         )
